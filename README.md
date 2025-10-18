@@ -12,14 +12,17 @@
 
 # Hi there! 👋 I'm Sejal Dabre
 🔬 Machine Learning Enthusiast | 🤖 AI Explorer | 💡 Lifelong Learner  
+I’m deeply intrigued by the world of Data Science and Artificial Intelligence. With hands-on experience in building end-to-end ML and AI projects, I enjoy turning data into impactful solutions. I’m continuously learning and currently expanding my knowledge in MLOps, Large Language Models (LLMs), and Generative AI.
 
 ---
 
-#### About Me
-- 🎓 Artificial Intelligence undergrad with a love for intelligent systems  
-- 🧠 Working on making machines think more like humans  
-- 📌 Interests: Machine Learning, Deep Learning, NLP, Generative AI  
-- 🌱 Currently learning: LLM fine-tuning, MLOps  
+#### 💼 What I Do
+- Language — Python and SQL
+- Data Science & ML — EDA, preprocessing, model building, tunning and evaluation.
+- MLOps — Docker, FastAPI
+- AI Projects — NLP, computer vision, GenAI apps using LLMs.
+- Learning — Scalable ML systems and GenAI(LangChain, RAG, LangGraph and AgenticAI).
+ 
 
 ---
 
@@ -27,7 +30,7 @@
 - **Languages:** Python  
 - **Database:** MySQL  
 - **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn   
-- **Tools:** Jupyter, Colab, VS Code, Gradio, FastAPI  
+- **Tools:** Jupyter, PowerBI, Git, Gradio, FastAPI , Streamlit, n8n
 - **Other:** Figma, OpenCV  
 
 #### 🧑‍💻 Skills
@@ -54,19 +57,8 @@
 
 ----
 
-### 🌱 Currently Learning
-- LangChain & vector databases for retrieval-based AI  
-- Stable diffusion for generative AI  
-- Neural architecture search
-
----
-
 #### ✨ Fun Fact
 I train models and myself—both with patience, data, and a lot of debugging.
-
-#### 💬 Personal Message
-Just a girl teaching machines to think, one model at a time.  
-Always up for a challenge in AI, ML, or decoding life itself. 💡🚀
 
 ---
 
